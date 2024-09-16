@@ -235,7 +235,7 @@ Here's the full example code:
 
 ```html
 <h1>My Plant List</h1>
-<p>Some of my favorite plants!</p>
+<p>Some of my favorite phase-0-html-experiencing-html-labplants!</p>
 <ul>
   <li>"Monstera deliciosa"</li>
   <li>"Fiddle Leaf Fig"</li>
